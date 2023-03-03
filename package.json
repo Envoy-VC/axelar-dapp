@@ -22,7 +22,7 @@
     "@axelar-network/axelar-gmp-sdk-solidity": "^1.2.0",
     "@axelar-network/axelar-local-dev": "^1.1.0",
     "@axelar-network/axelarjs-sdk": "^0.11.4",
-    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/contracts": "^4.8.2",
     "axios": "^0.27.2",
     "dotenv": "^16.0.2",
     "ethers": "^5.6.2",
